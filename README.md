@@ -29,5 +29,5 @@
 
 ## Building a Model 
 
-* Peformed **Cross Validation** on a **Linear Regression** model using the pre-processed data and found that the accuracy is mostly above **84%**.
+* Peformed **Cross Validation** on a **Linear Regression** model using the pre-processed data and found that the accuracy is on an average above **84%**.
 * Perfomed **Grid Search** using different Regression models like Linear Regression, Lasso and Decision Trees and found that **Linear Regression** model performed the best. 
