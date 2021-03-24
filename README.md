@@ -12,7 +12,7 @@
 * There were 1298 unique values in the location column. Performed dimensionality reduction and reduced the no. of columns to 241.
 * We explore the **price_per_sqft** column and notice that the *min* and *max* values are very extreme. So, there is a possibility that they are outliers. To handle this, we remove rows with price_per_sqft that are beyond 1 standard deviation, grouping by location. 
 * Found some outliers like -
-    - We visulaize the price and total_area columns and notice that there are some houses with 2 BHK that cost more than 3 BHK. 
+    - Visulaized the price and total_area columns and notice that there are some houses with 2 BHK that cost more than 3 BHK. 
     - When exploring the **bath** column, we notice that there are some houses where number of baths is a lot more than the number of bedrooms, which is pretty unusual. 
 * Dropped unecessary columns. 
 * Perform One Hot Encoding on the location column.
