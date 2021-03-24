@@ -8,7 +8,8 @@
 
 ## How to run the website
 
-* In a terminal go to the folder Server. 
+* Have Python installed on your machine. 
+* In the terminal/command line go to the folder Server. 
 * Run the *server.py* file using the command python server.py
 * Open *app.html* in a browser. 
 
