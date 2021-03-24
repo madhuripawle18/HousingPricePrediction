@@ -6,6 +6,12 @@
 * **Python Libraries** - NumPy, Pandas, Matplotlib Scikit-Learn 
 * **Web Technologies** - HTML, CSS, JavaScript, Flask 
 
+## How to run the website
+
+* In a terminal go to the folder Server. 
+* Run the *server.py* file using the command python server.py
+* Open *app.html* in a browser. 
+
 ## About the Dataset
 
 * The dataset is from Kaggle.  It consists data regarding pricing of houses in one of the most expensive cities of India - Bengaluru. 
